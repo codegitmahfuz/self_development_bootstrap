@@ -1,0 +1,31 @@
+.spece-between{
+    margin-top: 30px !important;
+    padding-top: 30px !important;
+}
+.about-spece-between{
+    margin-top: 10px !important;
+    padding-top: 10px !important;
+}
+
+/* .card-sizing{
+    height: 207px; 
+    width: 170px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+} */
+
+
+.custom-span-color{
+    color: brown;
+}
+.about-img-sizing{
+    width: 50%;
+    margin-left: 130px;
+}
+
+.left-align{
+    padding: auto;
+    padding-top: 15px;
+    width: 30px;
+}
+
